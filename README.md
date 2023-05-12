@@ -4,7 +4,7 @@
 
 ## Course Modules
 
-| S.No | AWS Service Name |
+| S.No | AWS Service Name |.
 | ---- | ---------------- |
 | 1.   | Create AWS EKS Cluster using eksctl CLI |
 | 2.   | [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals) |
